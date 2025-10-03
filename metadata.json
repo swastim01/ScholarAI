@@ -1,0 +1,5 @@
+{
+  "name": "ScholarAI",
+  "description": "An advanced AI research assistant that takes a research abstract or topic and returns structured, actionable, and student-friendly outputs to accelerate learning and research.",
+  "requestFramePermissions": []
+}
